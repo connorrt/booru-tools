@@ -1,4 +1,4 @@
-# Hi :3
+# boorureader
 
 custom viewer/analysis tools for tag-based imageboards
 
